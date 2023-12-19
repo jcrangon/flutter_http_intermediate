@@ -1,0 +1,24 @@
+{
+  "status": "OK",
+  "totalResults": 36,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Prohibition.com"
+      },
+      "author": "Al Capone",
+      "title": "Une barrique peut en cacher une autre",
+      "description": "Une réflexion sur la fraude fiscale dans l'Amérique des années 30"
+    },
+    {
+      "source": {
+        "id": 2,
+        "name": "SuperSizeMyTeckel.com"
+      },
+      "author": "B. Bardot",
+      "title": "Un Teckel bien nourri",
+      "description": "Une étude comportementale du Teckel en surpoids durant la pleine lune"
+    }
+  ]
+}
